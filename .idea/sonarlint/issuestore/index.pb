@@ -9,3 +9,7 @@ T
 $contracts/quantum-algorithm-nft.clar,5/e/5ec46d3142430c35c128786297339a281dbb8ddb
 S
 #tests/quantum-algorithm-nft.test.ts,6/d/6ddb463b900f2bdf034d723434d7c43fd344bd75
+W
+'contracts/optimization-marketplace.clar,2/d/2d1e066aefdac09186e81360db4b8b741b403325
+V
+&tests/optimization-marketplace.test.ts,c/c/cc5240460510a952ba3520583778533158158b7f
