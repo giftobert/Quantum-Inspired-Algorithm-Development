@@ -55,6 +55,11 @@ plan:
             path: contracts/collaborative-development.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: optimization-marketplace
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/optimization-marketplace.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: quantum-algorithm-nft
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-algorithm-nft.clar
