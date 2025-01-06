@@ -5,3 +5,5 @@ X
 (contracts/collaborative-development.clar,1/5/1520fa321ca88a2568bc406e6aa0c016f48d8c69
 W
 'tests/collaborative-development.test.ts,f/2/f296f0275578ab93d910d01da4035e8422fb329d
+T
+$contracts/quantum-algorithm-nft.clar,5/e/5ec46d3142430c35c128786297339a281dbb8ddb
